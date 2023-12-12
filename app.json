@@ -42,7 +42,7 @@
       "BOT_USERNAME": {
          "description": "your bot username without @",
          "required": true,
-         "value": "StarkIndustry_21"
+         "value": ""
       },  
        "BOT_NAME": {
          "description": "Your bot's name",
