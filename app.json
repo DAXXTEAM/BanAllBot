@@ -8,7 +8,7 @@
          "Group",
          "Telegram"         
       ],   
-   "repository": "",
+   "repository": "https://github.com/DAXXTEAM/BanAllBot",
    "stack": "heroku-20",
    "addons": [
       {
